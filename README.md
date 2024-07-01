@@ -7,9 +7,6 @@ This is a react + vite + tailwind + redux toolkit powered application that uses 
   <<img width="400" alt="" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-1.png" style="width:45%; margin-right:10px;">
   <img width="400" alt="" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-2.png" style="width:45%;">
 </p>
-<img width="400" alt="" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-1.png">
-<img width="400" alt="" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-2.png">
-
 
 ## Key Functionality:
 - Takes a web URL and the programme makes an advance redux toolkit query API request

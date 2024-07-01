@@ -16,10 +16,12 @@ This is a react + vite + tailwind + redux toolkit powered application that uses 
   npm run dev 
   ```
 
-#### Technologies:
+#### Technologies used in this project:
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white&labelColor=purple&color=white)
-![Static Badge](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=redux&logoColor=white&labelColor=indigo&color=white)
+![Static Badge](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux&logoColor=white&labelColor=indigo&color=white)
+![Static Badge](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=%2374AA9C&color=white)
+
 
 
 

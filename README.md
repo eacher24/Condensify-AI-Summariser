@@ -3,6 +3,7 @@ This is a react + vite + tailwind + redux toolkit powered application that uses 
 
 ### User View of Application:
 <img width="400" alt="" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-1.png">
+<img width="400" alt="" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-1.png">
 
 
 ## Key Functionality:

@@ -1,6 +1,8 @@
 # Condensify, the AI Summariser 📝
 This is a react + vite + tailwind + redux toolkit powered application that uses articficial intelligence and machine learning through Open AI's API system - Rapid API's Article Extractor and Summarizer. This web application takes a link from any website page and reduces it down into a readable paragraph summary to reduce reading time and improve speed and efficiency. Special focus on the project's feel and look came down to focusing on UX/UI principles and thus the frontend was created with a desired glassomorphism effect to induce a sense of technological advancement at this technology but also to invoke simplicity, such that the user knows exactly what they are using the website for,
 
+### User View of Application:
+
 ## Key Functionality:
 - Takes a web URL and the programme makes an advance redux toolkit query API request
 - The application then displays a small paragrpah summary about the webpage provided for the user to read

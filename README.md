@@ -1,8 +1,9 @@
 # Condensify, the AI Summariser 📝
-This is a react + vite + tailwind powered application that uses articficial intelligence and machine learning through Open AI's API system - Rapid API's Article Extractor and Summarizer. This web application takes a link from any website page and reduces it down into a readable paragraph summary to reduce reading time and improve speed and efficiency.
+This is a react + vite + tailwind + redux toolkit powered application that uses articficial intelligence and machine learning through Open AI's API system - Rapid API's Article Extractor and Summarizer. This web application takes a link from any website page and reduces it down into a readable paragraph summary to reduce reading time and improve speed and efficiency. Special focus on the project's feel and look came down to focusing on UX/UI principles and thus the frontend was created with a desired glassomorphism effect to induce a sense of technological advancement at this technology but also to invoke simplicity, such that the user knows exactly what they are using the website for,
 
 ## Key Functionality:
-- Takes a web URL and will produce a readable paragraph through API integration
+- Takes a web URL and the programme makes an advance redux toolkit query API request
+- The application then displays a small paragrpah summary about the webpage provided for the user to read
 - Contains a history of article summaries
 - Links back to this github repository
 
@@ -14,6 +15,13 @@ This is a react + vite + tailwind powered application that uses articficial inte
   ```console
   npm run dev 
   ```
+
+#### Technologies:
+![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white&labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=redux&logoColor=white&labelColor=indigo&color=white)
+
+
 
 
 

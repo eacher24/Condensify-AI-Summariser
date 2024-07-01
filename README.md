@@ -2,7 +2,7 @@
 This is a react + vite + tailwind + redux toolkit powered application that uses articficial intelligence and machine learning through Open AI's API system - Rapid API's Article Extractor and Summarizer. This web application takes a link from any website page and reduces it down into a readable paragraph summary to reduce reading time and improve speed and efficiency. Special focus on the project's feel and look came down to focusing on UX/UI principles and thus the frontend was created with a desired glassomorphism effect to induce a sense of technological advancement at this technology but also to invoke simplicity, such that the user knows exactly what they are using the website for,
 
 ### User View of Application:
-<img width="994" alt="Screenshot 2024-04-29 at 21 16 17" src="https://github.com/eacher24/rails-longest-word-game/assets/89210346/29f1438a-84a2-45d0-9495-009626237c1a">
+<img width="994" alt="Screenshot 2024-04-29 at 21 16 17" src="https://github.com/eacher24/Condensify-AI-Summariser/blob/main/Page-1.png">
 
 
 ## Key Functionality:

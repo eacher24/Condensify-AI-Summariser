@@ -11,8 +11,9 @@ This is a react + vite + tailwind powered application that uses articficial inte
 - The file .env_sample contains the template required to insert your own api key from https://rapidapi.com/restyler/api/article-extractor-and-summarizer
 - Once you have your api key, change the filename from .env_sample to .env 
 - To run on your local machine, copy and past the command below into the terminal once you have naviagted to the root directory of this project
-  ``` npm run dev 
-
+  ```console
+  npm run dev 
+  ```
 
 
 

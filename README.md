@@ -1,5 +1,5 @@
 # Condensify, the AI Summariser 📝
-This is a react + vite + tailwind powered application that uses articficial intelligence and machine learning through Open AI's API system - Rapid API's Article Extractor and Summarizer. This web application takes the link fo any website and reduces it down into a readable paragraph summary to reduce reading time and improve speed and efficiency.
+This is a react + vite + tailwind powered application that uses articficial intelligence and machine learning through Open AI's API system - Rapid API's Article Extractor and Summarizer. This web application takes a link from any website page and reduces it down into a readable paragraph summary to reduce reading time and improve speed and efficiency.
 
 ## Key Functionality:
 - Takes a web URL and will produce a readable paragraph through API integration
